@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007187799393",
+    "project_id": "attendances-e9f6d",
+    "storage_bucket": "attendances-e9f6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007187799393:android:a266bcb34407d048046920",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOGWqAdPr7zuBfaOFctnGT2S3nBkAmzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
